@@ -1,0 +1,22 @@
+{
+  "project": {
+    "dataUrl": "https://a.riveroll.top/sa",
+    "umKey": "623ac4d43d2fa20e31fea630",
+    "key": "",
+    "id1": "",
+    "id2": "3kjdfi402kw0",
+    "flushBulkSize": 100,
+    "flushInterval": 15,
+    "gzipData": false,
+    "test": false
+  },
+  "applovin": {
+    "video": "28387cebacbadf48",
+    "inter": "43cdaaf8d767db4e",
+    "banner": "",
+    "debug": false
+  },
+  "googlePayModel": {
+    "useful": false
+  }
+}
